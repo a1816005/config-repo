@@ -11,9 +11,5 @@ spring:
     port: 5672
     password: guest
     username: guset
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:8761/eureka/
 env: 
   dev

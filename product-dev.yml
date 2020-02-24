@@ -7,7 +7,7 @@ spring:
   jpa:
     show-sql: true
   rabbitmq:
-    host: localhost
+    host: 127.0.0.1
     port: 5672
     password: guest
     username: guset

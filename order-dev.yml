@@ -11,5 +11,3 @@ spring:
     port: 5672
     password: guest
     username: guset
-env: 
-  dev
